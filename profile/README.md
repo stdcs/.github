@@ -1,4 +1,4 @@
-# Hi There 👋
+# Hi there 👋
 
 ```txt
 (unofficial) Part of:
